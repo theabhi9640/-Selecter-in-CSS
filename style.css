@@ -1,0 +1,65 @@
+/* Element selector  */
+/* li{
+    color: red;
+} */
+
+/* ID Selector */
+/* #list2{
+    color: red;
+} */
+
+/* class selector */
+/* .list5{
+    color: red;
+} */
+
+/* pseudo class */
+/* a:hover{
+    color: red;
+} */
+
+/* pseudo element  */
+/* p::first-line{
+    color: red;
+} */
+
+/* attribute selector  */
+/* a[href="https://www.google.com"]{
+    color: red;
+} */
+/* input[type="password"]{
+    color: red;
+} */
+
+/* universal selector  */
+/* *{
+    border: 1px solid red;
+    color: red;
+} */
+
+
+/* div a{
+    color: red;
+} */
+
+/* direct child  */
+/* div>a{
+    color: red;
+} */
+
+/* jus sibling */
+ /* div + a{
+    color: red;
+ } */
+
+ /* normal sibling */
+ h1, p{
+    color: red;
+ }
+
+
+
+
+
+
+
